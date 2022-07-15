@@ -1,6 +1,6 @@
 Coursera tools beta public v0.0.0.1 for Chrome<br><hr><br>
 #how to use <br>
-1. Dowload extension: [Click here](https://github.com/ttthanhf/extension_coursera_tools_public/releases/download/Extension/extension_coursera_tools_public-main.zip) (download file .zip)
+1. Dowload extension: [Click here](https://github.com/ttthanhf/extension_coursera_tools_public/releases/download/Extension/coursera_tools_public.zip) (download file .zip)
 2. Extract file 
 3. Go to chrome://extensions/ and turn on Developer Mode
 <img src="https://user-images.githubusercontent.com/88179750/179171223-37fc539b-f38b-4e1a-8a72-81d7f84d2157.png">
