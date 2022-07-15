@@ -1,0 +1,43 @@
+{   
+    "background": {
+        "service_worker": "scripts/background.js"
+    },
+    "icons": {  "16": "img/logo.png",
+                "48": "img/logo.png",
+                "128": "img/logo.png"},
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "19": "img/logo.png",
+            "38": "img/logo.png"
+          }
+    },
+    "manifest_version": 3,
+    "description": "The tools for coursera",
+    "name": "Coursera Tools Beta Public",
+    "version": "0.0.0.1",
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "scripting",
+        "storage",
+        "unlimitedStorage"
+    ],
+    "host_permissions": [
+        "https://www.coursera.org/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.coursera.org/*"
+            ],
+            "run_at": "document_end",
+            "js": [
+                "scripts/coursera.js"    
+            ]   
+        }
+    ],
+    "externally_connectable": {
+        "matches": ["https://www.coursera.org/*"]
+    }
+}

@@ -1,0 +1,794 @@
+1.1.1.1
+3.Critically evaluate the reliability of sources for an academic context.4.Filter, manage and organize information from a wide variety of sources for use in academic study.5.Demonstrate awareness of ethical issues related to academic integrity surrounding the access and use of information.
+1.1.1.2
+35%
+1.1.1.3
+1.In video questions & polls2.Short quizzes after each lesson
+1.1.2.1
+1. Academic integrity3. Critical thinking4. Intellectual inquiry and communication5. Ethical contribution
+1.1.2.2
+2. Writing an email to your lecturer at university.3. Creating a LinkedIn profile.
+1.1.2.3
+Beginning an assignment with one opinion, but changing your opinion as you gather and read more information sources with contrary evidence.
+1.1.3.1
+1. Complete course readings in advance.4. Prepare for assignments in advance.
+1.1.3.2
+Be open-minded.
+1.1.3.3
+How their field understands and presents knowledge.
+1.1.4.1
+Behaving ethically and responsibly at university.
+1.1.4.2
+to behave ethically
+1.1.4.3
+Fairness
+1.1.5.1
+Facilitation of academic misconduct of another student.
+1.1.5.2
+The contingent nature of academic knowledge.
+1.1.5.3
+The importance of independent learning.
+1.1.5.4
+Time management
+1.1.5.5
+The importance of finding good evidence to support your argument.
+1.2.1.1
+Information
+1.2.1.2
+Cultural record
+1.2.1.3
+Secondary source
+1.2.2.1
+2. Because they don't provide deep knowledge of a subject4. Because they present an unproblematic view of a field and don't always present current debates in the field.
+1.2.2.2
+They are difficult to read because of the expert vocabulary used.
+1.2.2.3
+Abstract, Introduction, Methodology, Results, Discussion, Conclusion, References
+1.2.3.1
+1. Google2. library aggregated search3. YouTube
+1.2.3.2
+2. academic journal database3. library website aggregated search
+1.2.3.3
+1. Boolean searching3. Use key words from assignment.
+1.2.4.1
+Definition of privacy, technology privacy issues for citizens, technology privacy issues for governments
+1.2.4.2
+surveillance, computers, civilians, subjects, state, politics
+1.2.4.3
+The search is too wide because using OR as a search term widens the search.
+1.2.4.4
+privacy AND technology AND (civilians OR citizens OR subjects)
+1.2.5.1
+Scholarly record
+1.2.5.2
+Tertiary source
+1.2.5.3
+Results
+1.2.5.4
+Abstract, Introduction, Body, Conclusion, References
+1.2.5.5
+1. Google Scholar4. An academic journal database called Web of Science which gives broad coverage to journal articles in the sciences.
+1.2.5.6
+What you're looking for.
+1.2.5.7
+3. Because they provide more detailed and specific information on a field.5. Because they can only be accessed via academic databases.
+1.2.5.8
+Textbooks, educational technology, educational leadership, teacher training, parental involvement with education.
+1.2.5.9
+The search is too narrow because using AND and NOT as search terms narrows the search
+1.2.5.10
+technology AND "curriculum change"
+1.3.1.1
+Clarity
+1.3.1.2
+1. A study conducted by an airline company on the relative safety of air travel compared to boat travel.3. A journal article on the health impacts of a particular fast-food burger that was sponsored by the fast-food chain which makes it.
+1.3.1.3
+1. The authority2. The source's audience is not academic.
+1.3.2.1
+3. An article in The Economist on "on-shoring" - factories moving back to developed countries from developing countries due to increased use of automation in factories.4. A journal article on a new method of programming driverless cars.
+1.3.2.2
+Partly
+1.3.2.3
+Yes
+1.3.3.1
+Noda et al_2013_robot surgery
+1.3.3.2
+170620_STEC1001_Assignment2
+1.3.3.3
+2018_Quarter 2
+1.3.4.1
+2. Assess credibility and relevance.3. Understand main ideas.
+1.3.4.2
+Methodology
+1.3.4.3
+Circle or highlight them for later reference.
+1.3.4.4
+According to categories based on your research question
+1.3.5.5
+1. Authority of the author3. Scholarly purpose4. Audience5. Objectivity6. The way a web site looks.8. The use of correct grammar10. Currency
+1.3.5.2
+1. Wikipedia4. National Geographic5. 2 Hungry Guys - A Sydney Food Blog
+1.3.5.3
+The source lacks currency.
+1.3.5.4
+Because the level of difficulty of technical vocabulary in a source reflects the audience the source is aimed at and the complexity of concepts used.
+1.3.5.5
+It means the information source is the correct type of source for the assignment (e.g., textbook, primary or secondary source).
+1.3.5.6
+Author's first name
+1.3.5.7
+171205_CSTU1004_Assignment1
+1.3.5.8
+1. Abstract2. Introduction5. Discussion6. Conclusion7. Title
+1.4.1.1
+Unintentional plagiarism is when you are not aware of your plagiarism, and intentional plagiarism is when you deliberately copy another's work.
+1.4.1.2
+1. Your own ideas2. Common knowledge
+1.4.1.3
+Yes
+1.4.2.1
+In-text and end-text
+1.4.2.2
+Footnote
+1.4.2.3
+The writer has given the publication name rather than the author's name.
+1.4.3.1
+The student's use of the quote is incorrect because they should have put the 'r' in "recently" in square brackets.
+1.4.3.2
+Rearrange the order of information from the original.
+1.4.3.3
+Softened the claim.
+1.4.5.1
+2. A student uses an information source in an assignment without referencing it.3. A student buys an essay off the internet.4. A student borrows another student's essay, rewords and restructures parts of it, and submits it as their own.
+1.4.5.2
+It is an example of plagiarism because the student has not referenced the original information source correctly.
+1.4.5.3
+It is not an example of plagiarism.
+1.4.5.4
+They have copied distinctive words and phrases.
+1.4.5.5
+In-text citing
+1.4.5.6
+Endnote
+1.4.5.7
+The student has referenced correctly.
+1.4.5.8
+The student's use of the quote is incorrect because they shouldn't have used ellipses.
+1.4.5.9
+The student's use of the quote is incorrect because they shouldn't have capitalized the 'i' in "Intermediaries".
+1.4.5.10
+It is not a good summary because the writer has misunderstood the original source.
+1.5.1.1
+University students are exempt from copyright laws.
+1.5.1.2
+They are for personal research only.
+1.5.1.3
+1. Make sure you understand the copyright license.2. Cite it properly.
+1.5.1.4
+Because using Creative Commons licensed content can reduce your chances of infringing copyright law.
+1.5.2.1
+An online network of people and information sources that can assist your learning.
+1.5.2.2
+It means to cut people out of personal learning network if you don't find their contributions useful.
+1.5.3.1
+Personal data shared online through social networking services.
+1.5.3.2
+1. expect unexpected audiences3. Treat video, audio and images like text.4. Have a public profile that you maintain.
+1.5.3.3
+A mum and a wife with a cool day job writing children's books.
+1.5.4.1
+2. Respect other people's privacy.5. Forgive others' mistakes.
+1.5.4.2
+1. Don't use text speak.2. Don't use emojis.3. Never write an email when you are upset or angry.6. Be formal.7. Be specific and concise.
+1.5.4.3
+Reference posts.
+1.5.5.1
+A student using images from the internet, downloaded from National Geographic online without permission, for their assignment.
+1.5.5.2
+2. Check the copyright license on any image you find to see if you can use it.4. It is OK to use images with Creative Commons licensing as long as you change them in some way.
+1.5.5.3
+1. A blog with interesting posts written by academics, although only a few of them are about Economics.3. The Facebook profile of a fellow Economics student who always gets good marks at university.4. The Twitter feed of a well-known publication that posts interesting economics statistics.
+1.5.5.4
+1. The Twitter feed of a Nobel prize winning economist who never posts anything.3. Following the Facebook posts of a political party because you wanted to see updates on economic policy, although you hate politics and it bores you.
+1.5.5.5
+1. Your log in details for eBay3. Your online banking account
+1.5.5.6
+2. Your LinkedIn profile4. An email discussion list for people in the same industry
+1.5.5.7
+Science geek and PhD candidate at USyd. I shoot very small lasers into very small crystals.
+1.5.5.8
+It is not well-written because it is not concise.
+1.5.5.9
+Yes, it is well-written.
+1.5.5.10
+Yes, it is well-written.
+2.1.1.1
+2. Recognize the importance & function of problem solving & creative thought within academic studio.5. Apply problem-solving strategies to issues related to university life & study.
+2.1.1.2
+35%
+2.1.1.3
+1. In video questions & polls.2. Practice quizzes after each lesson.
+2.1.2.1
+The process of figuring out the answer(s) or solution(s) to a question, issue or difficulty.
+2.1.2.2
+the beliefs, principles and approaches to study, work and life that a university upholds
+2.1.2.3
+2. Problem solving tasks are given so that students can become familiar with certain problem types.3. Problem solving tasks are given so that students can demonstrate their knowledge of an area and their ability to synthesize information, make arguments and make judgements.
+2.1.3.1
+1. Ask themselves where their passion meets the world's greatest needs.4. Do their research and choose courses they find interesting.5. Get to know the university campus in person or online.
+2.1.3.2
+You won't have the same direction or support from your teachers as you did in high school.
+2.1.3.3
+1. Try a lot of different things.3. Volunteer.5. Get to know your professors and create good network.
+2.1.4.1
+Behaving ethically and responsibly at university.
+2.1.4.2
+2. Re-using the exact same paragraph from an essay you wrote for a different class in a new essay.4. Paying someone outside of the university to write your essay because you aren't feeling well.
+2.1.4.3
+Email her lecturer immediately with the final version of her essay attached, give a brief explanation and apologize.
+2.1.5.1
+. . . to behave ethically.
+2.1.5.2
+Plagiarism
+2.1.5.3
+Have a break, calm down and come back and do the experiment again. She needs to have the proper results.
+2.1.5.4
+This is an example of fabrication or falsification of data.
+2.1.5.5
+Problem-solving tasks are the back-bone of university study and as such you use problem-solving skills on a day to day basis.
+2.2.1.1
+The initial state, solution path and goal
+2.2.1.2
+To design a year 9 Science curriculum to increase student interest in science
+2.2.1.3
+A problem where little to no prior knowledge is needed to solve it
+2.2.2.1
+1. At the beginning of a test or exam3. Embedded into analytical questions
+2.2.2.2
+Descriptive tasks and problems are usually worth less marks than other types of assessment.
+2.2.2.3
+2. List the symptoms of the common cold.3. Given an isosceles triangle with two side measuring 5cm each and one side measuring 6cm, find the area inside the triangle.4. According to the 2007 census results, what percentage of Australian's identify as religious?
+2.2.3.1
+A descriptive task asks for you to present knowledge or facts whereas an analytical task asks for new knowledge creation or interpretation by the respondent.
+2.2.3.2
+An analytical task
+2.2.3.3
+An analytical problem
+2.2.4.1
+Draw an isosceles triangle with two equal sides of 5cm and one side of 6cm.
+2.2.4.2
+Double-check your results and make sure that they make sense with the data.
+2.2.4.3
+Adapting or changing a strategy or solution until you find the best solution to the problem
+2.2.5.1
+To find the length of time the lamp will provide light from one gallon of gasoline
+2.2.5.2
+An ill-defined problem
+2.2.5.3
+a., b. and c.
+2.2.5.4
+A well-defined problem
+2.2.5.5
+Both (c). and (d).
+2.2.5.6
+3. Provide evidence for or against Shakespeare's "firm faith in human potential" in other plays.4. Provide evidence for or against Shakespeare's "firm faith in human potential" in Hamlet.5. State whether you agree or disagree with the quote.
+2.2.5.7
+2. Reference to different theories4. Reference to research on sustainable and ecological park development5. Your own ideas
+2.2.5.8
+3 - 4 different solutions: You need to try a few to see what works best, and then present a few different options in your answer.
+2.3.1.1
+2. The average person3. Merleau Ponty's theory of phenomenology4. The process of 'becoming an expert'5. Ride a horse.6. Doing something from scratch.9. Expert
+2.3.1.2
+Time (e.g. days, weeks, months, lessons etc.)
+2.3.1.3
+No. The answer doesn't define key terms and it doesn't use Merleau Ponty's theory of phenomenology or the process of becoming an expert.
+2.3.2.1
+Write down all the things you know that might relate: for example, acceleration due to gravity is 9.8m/s2; fresh snow is soft; trees branches would help break the fall; air resistance would slow you down; human flesh and bone can withstand certain amounts of force before they are damaged.
+2.3.2.2
+A brainstorm is where you write down absolutely everything you know about a topic on a piece of paper.
+2.3.2.3
+A mind map is where you write down key points on a piece of paper, draw lines between the main ideas showing how they connect to each other and the topic, and then write down evidence or extra information coming off each of the points.
+2.3.3.1
+All of the above.
+2.3.3.2
+2. Other construction companies' Workplace Health & Safety guidelines3. Published research articles from a journal called Journal of Safety Research4. Theories from Sociology, Psychology or Human Resources that relate to accident prevention.
+2.3.3.3
+Force = Mass (kg) x Acceleration (m/s)
+2.3.4.1
+1. A case study of a small, local business with high morale, high productivity and strong employee and customer loyalty2. A case study of a major multi-national company with high morale, high productivity and strong employee and customer loyalty3. A case study of how the CEO of a large company changed workplace culture from a similar state and increased her employee's work-life balance and work satisfaction.4. A case study of how a principle in a large international high school with high absenteeism, low marks and low school-pride managed to change the school culture, increasing the students' school-pride and satisfaction.
+2.3.4.2
+2. You can use them to test initial hunches about something.3. You can produce more nuanced and refined ideas and solutions.
+2.3.4.3
+3. A child from a lower socio-economic group who is not overweight, and who comes from a family where all of the family members are overweight or obese.4. A child from a lower socio-economic group who is overweight and whose parents are at a healthy weight.
+2.3.5.1
+2. Human potential3. What the play Hamlet teaches or tries to teach us4. What Shakespeare thinks of human potential
+2.3.5.2
+Kilometers
+2.3.5.3
+Seconds
+2.3.5.4
+The residents were bored waiting for the elevators.
+2.3.5.5
+Newly residential; apartment living; busy road; multi-cultural
+2.3.5.6
+(b).
+2.3.5.7
+Knowledge of the English alphabet
+2.3.5.8
+O and Q
+2.4.1.1
+1. The girl up the road who did the same subject two years ago2. Your mum3. Your dog4. The lecturer who set the problem5. Your 9 year old cousin6. Other students in the course
+2.4.1.2
+2. Because different knowledge and ideas can stimulate new ways of thinking about a problem.3. Because different fields have a great depth of specific knowledge, and combining these can be very useful.
+2.4.1.3
+1. Because it allows you to consider diverse views.3. Because it allows you to solidify your own opinion.
+2.4.2.1
+1. That Hamlet has something positive to say about human potential4. That Shakespeare had a firm faith in human potential
+2.4.2.2
+Deductive Logic
+2.4.2.3
+2. Analyze the accidents to see whether certain types of sites or equipment are more likely to be involved in accidents, and provide relevant workers with extra training.4. Identify the types of workers most likely to be involved in accidents and provide them with extra support and training.
+2.4.3.1
+2. Creativity is important to academic culture because it is needed to produce new knowledge.4. Creativity is important as even in areas such as the sciences logical analysis is often complemented by creativity.
+2.4.3.2
+Do the opposite.
+2.4.3.3
+Try a random juxtaposition.
+2.4.4.1
+Create a list of objectives.
+2.4.4.2
+Weight the objectives according to importance.
+2.4.4.3
+3. Reference to disciplinary bodies of knowledge4. The use of evidence
+2.4.5.1
+Information and Communication Technologies will fundamentally change the nature of how we learn.
+2.4.5.2
+Yes
+2.4.5.3
+1. A friend of yours who graduated from your degree last year and is now teaching at a school for students with special needs2. Your dog, who likes to chew on your old smart phones3. Your grandparents, who don't know how to use a mobile phone4. An old high-school teacher that you still keep in contact with5. Your mum, who is a web developer and programmer
+2.4.5.4
+That the content of the higher level class is too hard for her
+2.4.5.5
+Inductive
+2.4.5.6
+1. "We should talk to game developers about making use of the phone's features and then we could target gamers."2. "We should work together with the Ministry of Education and a company that makes apps to develop educational applications for the device, so that parents will want it for their kids."
+2.4.5.7
+All of the above
+2.4.5.8
+Both C and D
+2.5.1.1
+Tailoring your answer to your audience and including the details most important to them.
+2.5.1.2
+3^2 + 4^2 = c^2 9 + 16 = 25 c (hypotenuse) = 5 cm
+2.5.1.3
+1. "I don't know, I'd give the student a detention because it's school policy. You have to stop disrespectful behaviour quickly before it gets out of hand - they're probably just doing it because you are a practicum teacher."2. "Hmm...I think it is best to talk to the student, see what is going on. Lots of different studies suggest that an abrupt change in attitude can be a reflection of problems that the student is facing outside of school."4. "It depends on the student. I mean, if they're nice and co-operative in class, I'd be more inclined to talk to them, but if they're really disrespectful I might use it as a chance to discipline them.
+2.5.2.1
+1. Check what will be covered in the exam.3. Practice writing (and thinking) under time pressure.5. Make sure you understand all of the core concepts in the exam.
+2.5.2.2
+The questions that you know the answer to - get them out of the way!
+2.5.2.3
+Summarize
+2.5.3.1
+Introduce yourself.
+2.5.3.2
+Jos�
+2.5.3.3
+1. Tim4. Jenna
+2.5.4.1
+2. Ask a friend to read over your essay and help you edit it.3. Go to the university's writing centre or your field's library for help.4. Use online writing resources from your university (or another university!).
+2.5.4.2
+Let it go.
+2.5.4.3
+All of the above
+2.5.5.1
+Primarily (c)., but with considerations for (b). and (a).
+2.5.5.2
+Formal
+2.5.5.3
+2. Setting a time limit and doing a practice exam under exam conditions3. Doing practice essays or short answers4. Making flash cards5. Friendly debates of main theories with classmates
+2.5.5.4
+No more than 15 minutes in total
+2.5.5.5
+One person writes the definition and the principles of sustainable design, and the other three each find an example and then analyze it according to the principles.
+2.5.5.6
+No. The tasks are not evenly weighted: there is a lot more involved in analyzing something than there is in finding an example.
+2.5.5.7
+1. The Physics problem set2. The Business readings4. The Physics lab report5. Read chapter 6 of your Linguistics textbook.
+2.5.5.8
+1. A writing center at the university2. A peer, either in the same class or who has done the class before5. Your Physics tutor
+3.1.1.1
+1. Understand the importance and function of critical thinking in academic culture.6. Identify types of argument, and bias within arguments, in order to better evaluate the strength of arguments.
+3.1.1.2
+3. In video questions & polls5. Short quizzes after each lesson
+3.1.1.3
+35%
+3.1.2.1
+1. Academic integrity3. Critical thinking4. Intellectual inquiry and communication5. Ethical contribution
+3.1.2.2
+A slippery eel
+3.1.2.3
+An attempt to defend, validate or explain a conclusion using specific reasons or evidence
+3.1.3.1
+1. How to ask for help2. Resilience
+3.1.3.2
+Because he was pushed to think in new ways
+3.1.3.3
+3. At the end of her time at university, she was able to use references more to support her propositions.4. At the end of her course, she made broader, more cohesive arguments.
+3.1.4.1
+Mohammed isn't required to do anything.
+3.1.4.2
+Bring this to his professor's attention as soon as possible.
+3.1.4.3
+Go to the head of the school and ask for their opinion on the situation.
+3.1.5.1
+The need for proof to support opinions
+3.1.5.2
+It depends; Timmy should check his course outline or lecturer to make sure.
+3.1.5.3
+2. It reflects on its own basis, background and reasons.4. It aims to be objective and free from bias.
+3.1.5.4
+2. It had helped them understand communication in different contexts.4. It had given them better people skills.
+3.1.5.5
+Taking a stance or position in relation to a topic
+3.2.1.1
+Being systematic
+3.2.1.2
+Maturity
+3.2.1.3
+Metacognition
+3.2.2.1
+3 and 5
+3.2.2.2
+1 and 2
+3.2.2.3
+The personal sphere of argumentation
+3.2.3.1
+2. Shared processes of thought3. Common object of study5. Agreement on what knowledge is
+3.2.3.2
+2. School of thought3. Profession
+3.2.3.3
+In arts and social sciences courses students will generally need to engage in argumentation much earlier in their courses than science students.
+3.2.4.1
+1. A general way of life3. A way of approaching a text
+3.2.4.2
+Because argument and debate advance knowledge
+3.2.4.3
+To more fully understand the topic you are learning
+3.2.5.1
+Self-confidence
+3.2.5.2
+Metacognition
+3.2.5.3
+The public sphere of argumentation.
+3.2.5.4
+The technical sphere of argumentation
+3.2.5.5
+The next turn proof procedure
+3.2.5.6
+What actions are performed in the talk-in-interaction, and how the talk is sequentially organized into turns and sequences
+3.2.5.7
+2, 3 and 4
+3.2.5.8
+1, 5 and 6
+3.3.1.1
+The first sentence
+3.3.1.2
+The second premise is not strong, because the definition of 'reasonable' is unclear and needs to be further illustrated.
+3.3.1.3
+The conclusion is not the most logical result of the premises.
+3.3.2.1
+It assumes that there is a cause-effect relationship between the two trends.
+3.3.2.2
+All homeless people are unemployed.
+3.3.2.3
+It misrepresents the original argument.
+3.3.3.1
+Deductive reasoning needs to use strong, fixed language and this means it can be more easily attacked and disproven than other forms of reasoning.
+3.3.3.2
+2. Reasoning that moves from general statements to specific conclusions.3. Reasoning that moves from specific observations to general conclusions
+3.3.3.3
+This is an example of reasoning from specific observations to general conclusions.
+3.3.4.1
+3. The list only indicates a one way relationship between the causes and effect.4. The list doesn't demonstrate the relationship between each factor and how they are related.
+3.3.4.2
+2. It demonstrates that the factors are all inter-related and therefore a solution that addresses only one factor would not be sufficient to solve the issue.3. Thinking in terms of a cycle shows that it is not only a cause-effect relationship, and that homelessness itself can contribute to the factors of mental health issues, unemployment and poverty as well.
+3.3.4.3
+2. To be able to see what occurs between each of the individual components4. It helps understand the complexity of the issue and to see the bigger picture.
+3.3.5.1
+1. That if you buy Cool Cola you will also be young, beautiful and happy4. That Cool Cola makes the young, beautiful people in the advertisement happy
+3.3.5.2
+The conclusion is not the most logical result of the premises.
+3.3.5.3
+The Artape people and their ancestors have lived on the island of Staples for between 20,000 and 31,000 years.
+3.3.5.4
+This is an example of reasoning that combines general and specific observations to make a general conclusion.
+3.3.5.5
+It assumes that there is a cause-effect relationship between the two trends.
+3.3.5.6
+It misrepresents the original argument.
+3.3.5.7
+1. It suggests a one-way relationship between the causes and the effect.2. It suggests that each factor is of equal importance.
+3.3.5.8
+1. It shows that any solution would have to address all of the factors that contribute to the issue.2. Representing the situation as a cycle shows how the factors are interdependent and can effect each other.
+3.4.1.1
+A claim
+3.4.1.2
+The authors' interpretation of other people's experience
+3.4.1.3
+Print media
+3.4.1.4
+Academic
+3.4.1.5
+Secondary
+3.4.2.1
+A bias is a prejudice for or against someone or something and an assumption is a type of claim with no evidence.
+3.4.2.2
+False classification scheme
+3.4.2.3
+Use of certain or definitive language
+3.4.3.1
+Currency
+3.4.3.2
+1. Does the evidence support the conclusion?2. If I took the evidence away, would it make a difference to the conclusion?
+3.4.3.3
+3. The link between the two premises is only a correlation, not a causal relationship.4. The conclusion is not the most logical outcome from the premises.
+3.4.4.1
+Generalization
+3.4.4.2
+Quasilogical argument
+3.4.4.3
+Causal argument
+3.4.5.1
+3. No evidence is presented in this argument.4. Rental assistance is necessary for lowly-paid poor people' is a claim of this argument.
+3.4.5.2
+Personal experience
+3.4.5.3
+Use of passive voice to hide responsibility
+3.4.5.4
+Use of emotive language
+3.4.5.5
+3. If I took the evidence away, would it make a difference to the conclusion?4. Does the evidence support the conclusion?
+3.4.5.6
+The conclusion is not the most logical outcome from the premises.
+3.4.5.7
+Dissociation argument
+3.4.5.8
+Argument from analogy
+3.5.1.1
+Sentences 3, 4, 5 and 6
+3.5.1.2
+Yes, because it links the previous premise with a new premise.
+3.5.1.3
+To prove a point
+3.5.1.4
+1. It is not the most logical outcome of the premise.2. It does not use necessary hedging, or cautious, language.
+3.5.1.5
+2. The premises do not present the most logical progression.3. There are too many generalizations and assumptions for the argument to be convincing.
+3.5.2.1
+Warrant
+3.5.2.2
+Qualifier
+3.5.2.3
+Backing
+3.5.3.1
+1. A structural rather than just an individual worldview2. Focussing on power and inequality4. Socially and politically active
+3.5.3.2
+2. Unjust ideologies help maintain unequal power structures.3. The influence of unjust ideologies can be seen in thinking and theory itself.
+3.5.3.3
+2. Literary Studies3. Education
+3.5.4.1
+1. Research and evidence3. Possible answers or solutions4. Review and analysis of a topic, practice, theory or experience5. Questions about a topic, practice, theory or experience
+3.5.4.2
+Identification & description
+3.5.4.3
+Implications
+3.5.5.1
+1, 4, 5, 6 and 7
+3.5.5.2
+(1)
+3.5.5.3
+With an experience or event that raised questions or demonstrated a gap in your knowledge
+3.5.5.4
+1. Stephen Brookfield (1995), in his analysis of why critical reflection is important to teaching, suggests that "an uncritical stance towards our practice sets us up for a lifetime of frustration" (para 2). He suggests this is because teachers can have a different view of their classrooms to what is actually going on: they are unaware. This contradiction fascinates me.3. What we had learnt in our education theory courses didn't quite match up to real-life experience. Having my supervisor give me notes at the end really helped me in evaluating my teaching and planning the next lesson. This, coupled with my own observations of my students allowed me to more closely align what Brookfield would call the "meaning and significance" (para 2) I intended for the lesson to what the students took from it.
+3.5.5.5
+"These cases clearly demonstrate that laws against squatting on private property should be tightened."
+3.5.5.6
+There is none.
+3.5.5.7
+A structural worldview is needed, where individual issues are socio-political phenomena.
+3.5.5.8
+Unjust ideologies maintain unequal power structures.
+4.1.1.1
+4. Communicate clearly across a variety of different contexts and to a wide range of audiences by adapting communicative styles appropriately according to cultural and societal expectations.6. Confidently engage in constructive and critical dialogue with respect and professionalism.
+4.1.1.2
+1. In video questions & polls.2. Short quizzes after each lesson
+4.1.1.3
+35%
+4.1.2.1
+The beliefs, principles and approaches to study, work and life that a university upholds.
+4.1.2.2
+Writing
+4.1.2.3
+Your whole life.
+4.1.3.1
+1. Gaining new knowledge.2. Going out, or talking with friends
+4.1.3.2
+2. The ability to adapt to stressful situations.3. The ability to bounce back quickly when you experience a stressful situation.
+4.1.3.3
+1. Have long-term and short-term goals, and reflect back on them.2. Create a study timetable based on the best time of day for you to study.
+4.1.4.1
+Mike is falsifying data and this will twist the results of Jon's research.
+4.1.4.2
+No, though it will tarnish his results and not make them valid.
+4.1.4.3
+No, he can't get in trouble for academic misconduct.
+4.1.5.1
+The need for proof to support opinions.
+4.1.5.2
+Plagiarism
+4.1.5.3
+2. She could identify her key strengths in the course and how to use them.5. She should keep things in her life in balance, and make sure she has time for activities outside university such as meeting friends, exercising or practicing her art.6. She could think about her personal values and goals and whether they align with her course of study.
+4.1.5.4
+3. Communication is needed to form an argument, and thus display critical thinking.4. Communication is necessary to engage in questioning, which is central to critical thinking and academic culture in general.
+4.1.5.5
+3. Because communication forms a relationship between people and also with bodies of knowledge.4. Because good ideas are not much use unless you can communicate it.
+4.2.1.1
+1. A piece of hip hop graffiti on a wall.2. A conversation between a student and an administrative staff member over options for deferring a course for half a year4. An interpretive dance performance about migration
+4.2.1.2
+To give advice and assistance to students with issues surrounding their enrolment and other related matters at university.
+4.2.1.3
+2. The marketization of universities which leads to administrative areas such as this resembling more commercial spaces4. A lack of financial support for students
+4.2.2.1
+1. Build a relationship with your lecturer.2. Read the course readings.
+4.2.2.2
+2. Females tend to let males do the bulk of the work.3. Non-native speakers tend to let native speakers do the bulk of the work.
+4.2.2.3
+2. Attend orientation week.4. Attend talks
+4.2.3.1
+Outline format
+4.2.3.2
+1. Refer back to what someone else contributed to the discussion.2. Challenge an argument made in the seminar.
+4.2.3.3
+1. Bring questions from the lectures.3. Keep up with the other parts of your course.
+4.2.4.1
+an assertion
+4.2.4.2
+No, because she is amongst peers.
+4.2.4.3
+How about we call the army to secure the airports?
+4.2.5.1
+To practice and extend lecture content through discussions and problem sets.
+4.2.5.2
+1. "Write up the results by Friday."3. "The next step is to write up the results."
+4.2.5.3
+1. "We might start with writing up the results."2. "I think the next step is writing up the results, but um, what do you guys think?"
+4.2.5.4
+Be engaged with the topic of the tutorial.
+4.2.5.5
+2. Make an appointment to meet with a lecturer or tutor.3. Check the unit of study outline.
+4.2.5.6
+3. Ask a question on what 'translanguaging' means.4. Ask a question at the end about what Gumperz meant about contextualization cues, which was mentioned in the readings.
+4.2.5.7
+Lecturers and students
+4.2.5.8
+To reflect on your own and other students' ideas and experiences
+4.3.1.1
+1. Read the assignment instructions carefully.2. Ask the lecturer questions.
+4.3.1.2
+Proposals
+4.3.1.3
+Essays
+4.3.2.1
+An often abstract idea, theory or belief that needs to be defined or explored.
+4.3.2.2
+Ask your lecturer or tutor.
+4.3.2.3
+3. Audience4. Purpose
+4.3.3.1
+2. So you can support an idea that you already have.4. To find out more about an idea or concept you aren't sure of.5. To help refine an idea.
+4.3.3.2
+2. During the planning stage4. While you are drafting your assignment
+4.3.3.3
+1. Reference list4. Introduction5. Discussion
+4.3.4.1
+A short, single sentence that summarises your response to the question
+4.3.4.2
+Introduction
+4.3.4.3
+Lung's structure for professional reports
+4.3.5.1
+proposal
+4.3.5.2
+essay
+4.3.5.3
+2. Discuss different theories that suggest rituals are used as a means of social control3. Analyse how specific rituals of the Classical period of Maya culture did/did not provide a means of social control.5. Describe the kinds of rituals in the Classical period of Maya culture.
+4.3.5.4
+2. They have both real audiences and imagined audiences.3. May follow guidelines set by professional bodies or publishers.5. Language must be brief and key points quickly understood.
+4.3.5.5
+2. To clarify our main ideas.4. To add authority to our arguments.
+4.3.5.6
+Towards the beginning, as you contextualise the problem or situation you are addressing with other sources.
+4.3.5.7
+Despite the masculine themes of Fight Club, the movie contains a significant feminist subtext which questions rather than reinforces a hegemonic model of masculinity.
+4.3.5.8
+Sentences 3 and 4.
+4.4.1.1
+1. Get started.3. Make a plan and be flexible.
+4.4.1.2
+3. Check that your introduction matches your conclusion.4. Read you topic sentences to make sure they predict the main idea of the paragraph.
+4.4.1.3
+1. Visual aids serve as evidence for your argument.4. Visual aids must be cited correctly.
+4.4.2.1
+1. A map4. A marketing tool6. A microcosm
+4.4.2.2
+1. The sentences are less complex than in formal academic writing.2. Use of recommendations
+4.4.2.3
+Use Theme-New structures to connect sentences better.
+4.4.3.1
+The role of colonialism in causing the First World War.
+4.4.3.2
+1. Writing section headings.2. Writing an abstract or executive summary.
+4.4.3.3
+2. The visual aid has not been properly labelled.3. The wrong form of visual aid has been used.
+4.4.4.1
+To check the grammar
+4.4.4.2
+To check for names in references
+4.4.4.3
+"Does this look like an essay/report?"
+4.4.5.1
+Use a logical division of ideas.
+4.4.5.2
+Use of pronouns to avoid repetition.
+4.4.5.3
+Research report, because it uses passive forms and hedging.
+4.4.5.4
+1. Cite any visual aids taken from other sources correctly.2. Make a plan but be flexible.
+4.4.5.5
+Bar chart.
+4.4.5.6
+The paragraphing is wrong.
+4.4.5.7
+3. It is sometimes too personal in tone.4. It sometimes is more like spoken language.
+4.4.5.8
+1, 3, 2
+4.5.1.1
+2. Don't use too many PowerPoint slides.3. Don't just read out your PowerPoint slides.
+4.5.1.2
+3, 4
+4.5.1.3
+1. Determine the format and expectations of presentations in your academic field.2. Find your own argument and present it with authority.
+4.5.2.1
+To display subject knowledge and critical thinking skills
+4.5.2.2
+2. Whether the projector is working.3. Whether the sound is working.5. Whether you can play the video file of the classroom discussion on the computer in the room.
+4.5.2.3
+1. Chronological order4. Residues approach/comparing points of view5. General to Specific
+4.5.3.1
+3. The body text is too small.4. There are too many fonts being used on the slide.5. There is too much text on the slide.
+4.5.3.2
+1. The images are too small.4. There is not enough space around the images.
+4.5.3.3
+Words and phrases designed to explicitly signal the structure of a presentation to an audience.
+4.5.4.1
+4. Make eye contact with your audience.5. Don't turn your back on the audience.6. Model the engagement you want from your audience.
+4.5.4.2
+2. Have a short quiz.3. Put up a discussion question.
+4.5.4.3
+1. Ask them to repeat the question to buy more time.3. Throw the question back to the audience to answer.
+4.5.5.1
+A, B and D
+4.5.5.2
+A. None
+4.5.5.3
+General to Specific.
+4.5.5.4
+It's missing an outline of what each presenter will be talking about.
+4.5.5.5
+It's fine.
+4.5.5.6
+1. Reading off a piece of paper will cause your audience to disengage.2. It will limit your ability to adapt the presentation to different situations.
+4.5.5.7
+2. Smile and stand taller.3. Make eye contact.
+4.5.5.8
+1. "That's a valid point. However according to Smith and Jones (2015) students ..."2. "That's an interesting point. What are other people's views? Do you think, as students, you would respond to this campaign?"

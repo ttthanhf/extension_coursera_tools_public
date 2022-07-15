@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+<body>
+    <div id="main_container">
+        <span id="title"><strong>Coursera Tools</strong></span><br>
+        <span id="version"><strong>Beta public v0.0.0.1</strong></span><br>
+        <br>
+        <button id="doquizbtn" title="Auto do quiz">Do Quiz</button>
+        <span id="note">( Wait until the questions are all displayed )</span>
+        <button id="showquizbtn" title="Show answer">Show answer</button>
+        <span id="note">( Use "show answer" if "do quiz" not working well ! )</span>
+        <button id="getLinkSubmission" title="Go to My submission to get link">Get link submission</button>
+        <span id="note">( Go to week 6 to get link)</span>
+        <button id="markReview" title="Auto mark review">Mark review</button>
+    </div>
+    <hr>
+    <div id="advancedOptions">
+        <input type="checkbox" id="checkbox_svq" name="skvdqs">
+        <label for="checkbox_svq" title="Auto skip video question">Skip video question</label><br><br>
+        <input type="checkbox" id="checkbox_sr" name="skrd">
+        <label for="checkbox_sr" title="Auto skip reading">Skip reading</label><br><br>
+        <input type="checkbox" id="checkbox_pv" name="atplvd">
+        <label for="checkbox_pv" title="Auto play video">Auto play video</label><br><br>
+        <input type="checkbox" id="checkbox_1" name="" disabled>
+        <label for="checkbox_1" title="(Auto go to next course)">Auto go to next course</label><br>
+        <span id="noti_status">(Not available)</span><br><br>
+        <input type="checkbox" id="checkbox_2" name="" disabled>
+        <label for="checkbox_2" title="(Auto do Discussion Prompt)">Auto Discussion Prompt</label><br>
+        <span id="noti_status">(Not available)</span><br><br>
+        <input type="checkbox" id="checkbox_autoall" name="" disabled>
+        <label for="checkbox_autoall" title="(Auto Do quiz, Show answer, Mark review, Skip video question)">Automatically everything</label><br>
+        <span id="noti_status">(Not available)</span><br><br>
+    </div>
+    <span id="advc">More</span>
+    <br>
+    <script src="scripts/script.js">
+    </script>
+</body>
+</html>

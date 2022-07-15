@@ -1,0 +1,57 @@
+
+#main_container {
+    text-align: center;
+}
+body {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#version {
+    opacity: 80%;
+    color: rgb(67, 67, 132);
+    font-size: 12px;
+}
+::-webkit-scrollbar { 
+    display: none; 
+}
+#advancedOptions {
+    padding: 0px 5px;
+}
+#noti_status {
+    padding: 0px 25%;
+}
+#title {
+    font-size: 20px;
+    color: rgb(105, 105, 255);
+}
+#note {
+    font-size: 10px;
+    color: rgb(141, 141, 141);
+}
+button {
+    width: 150px;
+    height: 30px;
+    margin: 5px 10px;
+}
+#advc {
+    font-size: 12px;
+    color: blue;
+    cursor: pointer;
+    padding-bottom: 20px;
+    padding: 0px 42%;
+}
+label {
+    position: relative;
+    top: -2px;
+}
+#advc:hover {
+    text-decoration: underline;
+}
+button,label,input:hover {
+    cursor: pointer;
+} 
+
