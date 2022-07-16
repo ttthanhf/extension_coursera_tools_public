@@ -23,4 +23,4 @@ Coursera tools beta public v0.0.0.1 for Chrome<br><hr><br>
  + Auto play video : Auto play video . <br>
  + ... <br><br>
  
- > This is a beta version so if you have any bugs or problems please contact me ! Thanks you :) 
+ > This is a beta version so if you have any bugs or problems please contact me ! Thank you :) 
