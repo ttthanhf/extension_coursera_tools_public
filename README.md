@@ -24,3 +24,4 @@ Coursera tools beta public v0.0.0.1 for Chrome<br><hr><br>
  + ... <br><br>
  
  > This is a beta version so if you have any bugs or problems please contact me ! Thank you :) 
+ > > (It's not a bug, it's a feature)
